@@ -12,15 +12,13 @@
 ![結果画像4](result4.gif)
 
 ## 自分なりにかっこいいシーン
-![結果画像](result.gif)
+https://github.com/simulacru/test/assets/104343269/89a9b094-d01e-4a3d-a3ab-54ba646c3ff7
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](node_graph6.png)
 
 # 自分なりに変更した点
--
--
--
-
+- 波の高さによって色が変わるようにした
+- Sphereが円を描くように動くように変更した
 
 # 進め方
 

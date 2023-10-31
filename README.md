@@ -2,23 +2,27 @@
 テクスチャに対してレンダリングを行います。
 
 ## バックミラー
-![結果画像1](result1.gif)
+
+https://github.com/Iketerumanato/PGWS4_6_render_texture/assets/74332407/e637d59d-356f-4112-b122-68e1f7d78555
 
 ## 水シミュレーション
-![結果画像2](result2.gif)
 
-![結果画像3](result3.gif)
+https://github.com/Iketerumanato/PGWS4_6_render_texture/assets/74332407/a3858613-6230-4deb-9f32-2497fac23188
 
-![結果画像4](result4.gif)
+https://github.com/Iketerumanato/PGWS4_6_render_texture/assets/74332407/d4e7a21a-292d-45e7-adb0-6a8ec129fbb3
+
+https://github.com/Iketerumanato/PGWS4_6_render_texture/assets/74332407/76d0fa4c-7f2f-4ea0-8d9c-2b3fa03d555d
+
 
 ## 自分なりにかっこいいシーン
-![結果画像](result.gif)
 
-![シェーダグラフ](node_graph.png)
+https://github.com/Iketerumanato/PGWS4_6_render_texture/assets/74332407/82cf88fa-4577-44cc-b4cb-e489efcf85cd
+
+![シェーダグラフ](https://github.com/Iketerumanato/Select02/assets/74332407/37f4acac-ebae-407e-9542-655f6e0567d7)
 
 # 自分なりに変更した点
--
--
+-授業でやったのとは別の波の表現の波をシェーダーで作成
+-専用のテクスチャを追加
 -
 
 
